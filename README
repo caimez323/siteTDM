@@ -1,0 +1,6 @@
+To launch
+
+npm run build
+mv build ../
+
+node server.js
